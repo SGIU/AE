@@ -2,3 +2,6 @@
 GP工具Clip中设置NoData，会将影像中你所设置的值当做NoData处理
 
 IRasterProps中设置NoData，会将影像中的NoData当做指定值处理
+
+裁剪后的影像加载到地图窗口发白：
+    修改图层Stret属性，不进行拉伸；修改Gamma，不使用
