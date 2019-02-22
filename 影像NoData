@@ -1,0 +1,4 @@
+处理影像时需注意NoData的设置
+GP工具Clip中设置NoData，会将影像中你所设置的值当做NoData处理
+
+IRasterProps中设置NoData，会将影像中的NoData当做指定值处理
